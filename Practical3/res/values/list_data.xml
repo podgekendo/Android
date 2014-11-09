@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modules">
+        <item>Comp 30440</item>
+        <item>Comp 30570</item>
+        <item>Comp 30580</item>
+        <item>Comp 47290</item>
+        <item>Comp 47330</item>
+        <item>Comp 47160</item>
+        <item>Comp 40725</item>
+        <item>Comp 20040</item>
+        <item>Comp 20080</item>
+    </string-array>
+</resources>

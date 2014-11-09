@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feedback Form</string>
+    <string name="edit_description">Enter feedback details to send to the developer:</string>
+    <string name="action_settings">Settings</string>
+    <string name="feedback_name">Name</string>
+    <string name="feedback_email">Email</string>
+    <string name="actual_feedback">Feedback Details</string>
+    <string name="button_send">Send</string>
+    <string name="button_clear">Clear</string>
+    
+</resources>
